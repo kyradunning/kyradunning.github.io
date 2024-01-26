@@ -14,10 +14,21 @@ I expect to develop new management and organisation insights throughout the long
 ## Overview of Projects
 
 ### 1. Weather App
-#### Hi
+#### Description
+This project aims to showcase my Python skills, as well as my ability to implement real-time data extracted from APIs. The Weather App uses the 'requests' module in Python to make API requests to the '(Open Weather)[https://rapidapi.com/worldapi/api/open-weather13/]' service
+#### Key features
+#### Screenshots
+#### Process to build
 
 ### 2. To-Do List App
+#### Description
+#### Key features
+#### Screenshots
+#### Process to build
 
 ## Acknowledgements
-- RapidAPI
+- [RapidAPI](https://rapidapi.com/hub)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+- [Python Portfolio Ideas](https://www.altcademy.com/blog/29-python-portfolio-ideas-to-showcase-your-skills/)
+- [Python GUI - Tkinter](https://www.geeksforgeeks.org/python-gui-tkinter/)
+- [Open Weather](https://rapidapi.com/worldapi/api/open-weather13/)
