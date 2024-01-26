@@ -15,7 +15,7 @@ I expect to develop new management and organisation insights throughout the long
 ### 1. Weather App
 #### Hi
 
-### 1. To-Do List App
+### 2. To-Do List App
 
 ## Acknowledgements
 - RapidAPI
