@@ -1,6 +1,10 @@
 # Weather app project
 
+import tkinter as tk
+
 import requests
+
+window = tk.Tk()
 
 print("Welcome to my weather app!")
 
