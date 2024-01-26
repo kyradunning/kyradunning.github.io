@@ -12,10 +12,10 @@ I expect to develop new management and organisation insights throughout the long
 
 ## Overview of Projects
 
-### **1. Weather App**
+### 1. **Weather App**
 #### Hi
 
-### **2. To-Do List App**
+### 2. **To-Do List App**
 
 ## Acknowledgements
 - RapidAPI
