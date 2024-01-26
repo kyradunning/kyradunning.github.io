@@ -13,5 +13,10 @@ I expect to develop new management and organisation insights throughout the long
 ## Overview of Projects
 
 ### Weather App
+#### Hi
 
 ### To-Do List App
+
+## Acknowledgements
+- RapidAPI
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
