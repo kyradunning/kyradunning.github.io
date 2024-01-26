@@ -15,7 +15,7 @@ I expect to develop new management and organisation insights throughout the long
 
 ### 1. Weather App
 #### Description
-This project aims to showcase my Python skills, as well as my ability to implement real-time data extracted from APIs. The Weather App uses the 'requests' module in Python to make API requests to the '(Open Weather)[https://rapidapi.com/worldapi/api/open-weather13/]' service
+This project aims to showcase my Python skills, as well as my ability to implement real-time data extracted from APIs. The Weather App uses the 'requests' module in Python to make API requests to the '[Open Weather](https://rapidapi.com/worldapi/api/open-weather13/)' service
 #### Key features
 #### Screenshots
 #### Process to build
