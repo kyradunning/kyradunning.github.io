@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]](www.linkedin.com/in/kyra-dunning)
 
 # My Computer Science Portfolio
 
