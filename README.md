@@ -1,6 +1,7 @@
-[![LinkedIn][linkedin-shield]](www.linkedin.com/in/kyra-dunning)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-# My Computer Science Portfolio
+<h3 align="center">My Computer Science Portfolio</h3>
+
 
 ## Table of Contents
 - [Overview of Portfolio](#Overview-of-Portfolio)
