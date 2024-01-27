@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # My Computer Science Portfolio
 
 ## Table of Contents
@@ -32,3 +34,6 @@ This project aims to showcase my Python skills, as well as my ability to impleme
 - [Python Portfolio Ideas](https://www.altcademy.com/blog/29-python-portfolio-ideas-to-showcase-your-skills/)
 - [Python GUI - Tkinter](https://www.geeksforgeeks.org/python-gui-tkinter/)
 - [Open Weather](https://rapidapi.com/worldapi/api/open-weather13/)
+
+<!-- LINKS -->
+[linkedin-url]: www.linkedin.com/in/kyra-dunning
