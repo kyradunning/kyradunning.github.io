@@ -36,4 +36,5 @@ This project aims to showcase my Python skills, as well as my ability to impleme
 - [Open Weather](https://rapidapi.com/worldapi/api/open-weather13/)
 
 <!-- LINKS -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyra-dunning
