@@ -16,7 +16,7 @@ def get_weather():
     }
 
     response = requests.get(url, headers=headers)
-    #print(response.json())
+    print(response.json())
 
     if response.json()['cod'] == '404':
         print("That is an invalid location! Please enter a valid city.")
@@ -39,7 +39,7 @@ header.pack()
 
 # Paragraph text label
 about_title = '\nABOUT THIS APP:'
-about = "\nUsing the OpenWeather API from RapidAPI, you can use this app to the today's current weather for any global city."
+about = "\nUsing the OpenWeather API from RapidAPI, you can use this app to see today's weather for any global city."
 paragraphVar = tk.Label(window, text=about_title+about)
 paragraphVar.pack()
 
