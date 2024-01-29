@@ -32,6 +32,8 @@
     </li>
   </ol>
 </details>
+<br/>
+<br/>
 
 
 <!-- Overview of Portfolio -->
@@ -39,6 +41,8 @@
 
 With the creation of this portfolio I hope to display my passion in exploring all aspects of the concepts I have been learning over the past few years. Through each project, I would like to showcase my programming skills in Python, Java and HTML/CSS, as well as my ability to fetch real-time data from APIs, and use other relevant libraries in real-world applications.
 I expect to develop new management and organisation insights throughout the long-term creation and compilation of this portfolio, which I believe will also assist in continuously improving and creating a strong portfolio for future recruiters.
+<br/>
+<br/>
 
 
 <!-- Projects -->
@@ -58,19 +62,26 @@ This project aims to showcase my Python skills, as well as my ability to impleme
 #### Key features
 #### Screenshots
 #### Process to build
+<br/>
+<br/>
 
 
 <!-- Contacts -->
 ## Contact
 
 Kyra Dunning - [![LinkedIn][linkedin-shield]][linkedin-url][![Mail][Mail-shield]][Mail-url]
+<br/>
+<br/>
 
 
 <!-- Roadmap -->
 ## Roadmap
+
 - [ ] Complete base README document
 - [ ] Complete Project 1
 - [ ] Begin Project 2
+<br/>
+<br/>
 
 
 <!-- Acknowledgement -->
