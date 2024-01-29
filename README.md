@@ -8,7 +8,7 @@
 <!-- Portfolio Logo -->
 <div align="center">
   <a href="#My-Computer-Science-Portfolio">
-    <img src="images/logo.PNG" alt="Logo" width="100" height="100">
+    <img src="images/logo.PNG" alt="Logo" width="80" height="100">
   </a>
 </div>
 
