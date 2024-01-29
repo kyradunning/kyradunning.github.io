@@ -67,7 +67,7 @@ Kyra Dunning - [![LinkedIn][linkedin-shield]][linkedin-url][![Mail][Mail-shield]
 
 
 <!-- Roadmap -->
-## ROADMAP
+## Roadmap
 - [ ] Complete base README document
 - [ ] Complete Project 1
 - [ ] Begin Project 2
