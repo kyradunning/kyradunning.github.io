@@ -2,8 +2,7 @@
 
 <h3 align="center">My Computer Science Portfolio</h3>
 
-
-## Table of Contents
+<!-- Table of Contents -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
