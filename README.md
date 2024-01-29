@@ -32,8 +32,6 @@
     </li>
   </ol>
 </details>
-<br/>
-<br/>
 
 
 <!-- Overview of Portfolio -->
