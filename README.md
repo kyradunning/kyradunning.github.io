@@ -26,7 +26,9 @@
         <li><a href="#To-Do-List-App">To-Do List App</a></li>
       </ul>
     </li>
-    <li><a href="#Acknowledgements">Acknowledgements</a></li>
+    <li><a href="#Contact">Contact</a>
+    <li><a href="#Acknowledgements">Acknowledgements</a>
+    </li>
   </ol>
 </details>
 
@@ -50,6 +52,11 @@ This project aims to showcase my Python skills, as well as my ability to impleme
 #### Key features
 #### Screenshots
 #### Process to build
+
+## Contact
+
+Kyra Dunning - [LinkedIn Profile](www.linkedin.com/in/kyra-dunning) - kyra.dunning@outlook.com
+
 
 ## Acknowledgements
 - [RapidAPI](https://rapidapi.com/hub)
