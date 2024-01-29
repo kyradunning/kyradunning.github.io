@@ -1,6 +1,16 @@
+<!-- Buttons -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- Title -->
 <h3 align="center">My Computer Science Portfolio</h3>
+<br/>
+
+<!-- Portfolio Logo -->
+<div align="center">
+  <a href="#My-Computer-Science-Portfolio">
+    <img src="OneDrive/Kyra - Personal/Pictures/Saved Pictures/sillyfacewalkingaroundsmilingatme.png" alt="Logo" width="80" height="80">
+  </a>
+</div>
 
 <!-- Table of Contents -->
 <details>
