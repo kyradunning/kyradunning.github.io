@@ -8,7 +8,7 @@
 <!-- Portfolio Logo -->
 <div align="center">
   <a href="#My-Computer-Science-Portfolio">
-    <img src="OneDrive/Kyra - Personal/Pictures/Saved Pictures/sillyfacewalkingaroundsmilingatme.png" alt="Logo" width="80" height="80">
+    <img src="" alt="Logo" width="80" height="80">
   </a>
 </div>
 
