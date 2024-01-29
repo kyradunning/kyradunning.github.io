@@ -4,6 +4,23 @@
 
 
 ## Table of Contents
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#Overview-of-Portfolio">Overview of Portfolio</a>
+    </li>
+    <li>
+      <a href="#Overview-of-Projects">Overview of Projects</a>
+      <ul>
+        <li><a href="#Weather-App">Weather App</a></li>
+        <li><a href="#To-Do-List-App">To-Do List App</a></li>
+      </ul>
+    </li>
+    <li><a href="#Acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
 - [Overview of Portfolio](#Overview-of-Portfolio)
 - [Overview of Projects](#Overview-of-Projects)
   - [Weather App](#Weather-App)
