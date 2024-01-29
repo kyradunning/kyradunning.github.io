@@ -56,7 +56,7 @@ This project aims to showcase my Python skills, as well as my ability to impleme
 
 ## Contact
 
-Kyra Dunning - [![LinkedIn][linkedin-shield]][linkedin-url] - [![Mail][Mail-shield]][Mail-url]
+Kyra Dunning - [![LinkedIn][linkedin-shield]][linkedin-url][![Mail][Mail-shield]][Mail-url]
 
 
 ## Acknowledgements
