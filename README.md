@@ -79,7 +79,6 @@ Kyra Dunning - [![LinkedIn][linkedin-shield]][linkedin-url][![Mail][Mail-shield]
 - [ ] Complete Project 1
 - [ ] Begin Project 2
 <br/>
-<br/>
 
 
 <!-- Acknowledgement -->
