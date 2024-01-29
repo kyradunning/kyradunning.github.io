@@ -3,7 +3,6 @@
 
 <!-- Title -->
 <h3 align="center">My Computer Science Portfolio</h3>
-<br/>
 
 <!-- Portfolio Logo -->
 <div align="center">
@@ -11,6 +10,8 @@
     <img src="images/logo.PNG" alt="Logo" width="80" height="100">
   </a>
 </div>
+<br/>
+<br/>
 
 <!-- Table of Contents -->
 <details>
@@ -55,7 +56,7 @@ This project aims to showcase my Python skills, as well as my ability to impleme
 
 ## Contact
 
-Kyra Dunning - [LinkedIn Profile](www.linkedin.com/in/kyra-dunning) - kyra.dunning@outlook.com
+Kyra Dunning - [LinkedIn](www.linkedin.com/in/kyra-dunning) - kyra.dunning@outlook.com
 
 
 ## Acknowledgements
