@@ -38,7 +38,7 @@ I expect to develop new management and organisation insights throughout the long
 
 ### 1. Weather App
 #### Description
-[![JQuery][Python.org]][Python-url]
+[![Python][Python.org]][Python-url]
 
 This project aims to showcase my Python skills, as well as my ability to implement real-time data extracted from APIs. The Weather App uses the '[requests](https://pypi.org/project/requests/)' module in Python to make API requests to the '[Open Weather](https://rapidapi.com/worldapi/api/open-weather13/)' service
 #### Key features
@@ -63,3 +63,4 @@ This project aims to showcase my Python skills, as well as my ability to impleme
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyra-dunning
 [Python-url]: https://www.python.org/
+[Python.org]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
