@@ -37,34 +37,32 @@ window.geometry("750x500")
 
 # Background Image File
 bg = PhotoImage(file = "images/weather-app-background2.png")
-background_canvas = Canvas( window, width = 750, height = 500)
+background_canvas = tk.Canvas( window, width = 750, height = 500)
 background_canvas.pack(fill = "both", expand = True)
 background_canvas.create_image( 0, 0, image = bg, anchor = "nw")
 
 # Header label
-header = tk.Label(window, text="Welcome to my weather app!")
-header.pack()
+'''header = tk.Label(window, text="Welcome to my weather app!")
+header.pack()'''
 
 # Paragraph text label
-about = background_canvas.create_text( 200, 250, text = "\nUsing the OpenWeather API from RapidAPI, \nyou can use this app to see today's weather for any global city.")
+about = background_canvas.create_text(200, 250, text="\nUsing the OpenWeather API from RapidAPI, \nyou can use this app to see today's weather for any global city.")
 paragraphVar = tk.Label(window, text=about)
 paragraphVar.pack()
 
-# City input
-#label = background_canvas.create_text( 200, 250, text = "Please enter a city: ")
-#label_city = tk.Label(window, label)
-label_city = tk.Label(window, text='\nPlease enter a city: ')
-label_city.pack()
+# City label
+label = background_canvas.create_text(200, 100, text="Please enter a city: ")
 
 # Input functionality
 e1 = tk.Entry(window)
 e1.pack()
 
-# Fetching weather information
-location_button = Button( window, text = "Okay", command=get_weather) # Creating button
-location_button_canvas = background_canvas.create_window( 100, 10, anchor = "nw", window = location_button) # Displaying button
-#location_button = tk.Button(window, text='Okay', width=10, command=get_weather)
-location_button.pack()
+# Input
+label_city = background_canvas.create_window(200, 150, window=e1, anchor=tk.CENTER)
+
+# Buttons
+location_button = Button(window, text="Okay", command=get_weather)
+location_button_canvas = background_canvas.create_window(100, 10, anchor="nw", window=location_button)
 
 # Display weather information
 result_label = tk.Label(window, text="")
