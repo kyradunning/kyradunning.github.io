@@ -45,11 +45,6 @@ background_canvas.create_image( 0, 0, image = bg, anchor = "nw")
 '''header = tk.Label(window, text="Welcome to my weather app!")
 header.pack()'''
 
-# Paragraph text label
-about = background_canvas.create_text(200, 250, text="\nUsing the OpenWeather API from RapidAPI, \nyou can use this app to see today's weather for any global city.")
-paragraphVar = tk.Label(window, text=about)
-paragraphVar.pack()
-
 # City label
 label = background_canvas.create_text(200, 100, text="Please enter a city: ")
 
@@ -63,6 +58,11 @@ label_city = background_canvas.create_window(200, 150, window=e1, anchor=tk.CENT
 # Buttons
 location_button = Button(window, text="Okay", command=get_weather)
 location_button_canvas = background_canvas.create_window(100, 10, anchor="nw", window=location_button)
+
+# Paragraph text label
+about = background_canvas.create_text(200, 250, text="\nUsing the OpenWeather API from RapidAPI, \nyou can use this app to see today's weather for any global city.")
+paragraphVar = tk.Label(window, text=about)
+paragraphVar.pack()
 
 # Display weather information
 result_label = tk.Label(window, text="")
